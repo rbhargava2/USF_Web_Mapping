@@ -42,7 +42,7 @@ _This is a rough course outline that is subject to change as the semester advanc
 - **Ethan** electric vehicle adoption, transportation.
 - **OJ** Nonprofits, environmental projects in collaboration with companies; sustainable mobility, traffic; 
 - **Bernadette** groundwater resource; groundwater vulnerability assessment in Salinas Valley
-- **Radhika** SERVIR Mekong, land use and land change; waste management, island nations
+- **Radhika** SERVIR Mekong, land use and land change; waste management, island nations, climate change
 - **Jeremy** charging stations, how accessible to amenities; distances between locations.
 - **Erin** solar company in oakland, solar system design; community solar and storage in hawaii. 
 - **Evan** forest quality for the America Pika persistence (like a hamster) which is sensitive to climate change.
